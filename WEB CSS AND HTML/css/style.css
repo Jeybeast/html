@@ -1,0 +1,22 @@
+                                                            * {
+                                                                color: rgb(218, 130, 130);
+                                                            }
+                                                            /*universal selector
+                                                            */
+                                                            
+                                                            h1,
+                                                            h2 {
+                                                                color: darkolivegreen;
+                                                                text-decoration: underline;
+                                                            }
+                                                            /*type selector*/
+                                                            
+                                                            #softdev {
+                                                                color: rgb(28, 241, 241);
+                                                            }
+                                                            /*id selector */
+                                                            
+                                                            .redtext {
+                                                                color: rgb(187, 14, 240);
+                                                            }
+                                                            /*class sector (most used )*/
